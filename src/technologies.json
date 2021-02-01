@@ -13873,6 +13873,22 @@
       },
       "website": "http://www.reinvigorate.net"
     },
+    "Remix": {
+      "cats": [
+        18,
+        22
+      ],
+      "description": "Remix brings you the state of the art in web development without leaving behind the fundamentals that make it great. Built for the serverless era, and on top of our open source that runs on millions of websites already, Remix gives you a sturdy foundation to build better websites.",
+      "implies": [
+        "React",
+        "Rollup",
+        "Node.js"
+      ],
+      "js": {
+        "__remixContext": ""
+      },
+      "website": "https://remix.run"
+    },
     "RequireJS": {
       "cats": [
         12
